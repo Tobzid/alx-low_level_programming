@@ -1,10 +1,12 @@
 #iclude <studio.h>
-/
-* main - Entry point
-* Return: Always 0 (sucess)
-*/
+
+
+/**
+ * main - print the size of various types
+ * Return: 0 if exited properly, non-zero otherwize
+ */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+put ("\"Programing is like building a multilingualpuzzle");
+return(0);
 }
