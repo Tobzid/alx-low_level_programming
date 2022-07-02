@@ -1,1 +1,1 @@
-Readme will be updated later
+Lovely weekend
