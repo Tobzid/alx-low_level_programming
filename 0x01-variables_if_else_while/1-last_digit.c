@@ -1,21 +1,18 @@
-nclude <stdlib.h>
+#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 
-/*
- * mzin - Prints the last digit of a randomly generated number
- * and whether itis greater than 5, less than 6, or 0.
- *
- * Return: Always (0)
+/**
+ * main -> assign a random number to the variable n each time it is executed
+ * and print the last digit of the numbe stored in the variable n
+ * Return: Always 0 (success)
  */
-
 int main(void)
 {
 int n;
 
 srand(time(0));
 n = rand() - RAND_MAX / 2;
-/your code goes here/
 
 if ((n % 10) > 5)
 {
