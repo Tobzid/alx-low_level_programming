@@ -1,1 +1,1 @@
-Prototype: void print_alphabet(void);
+Write a function that prints 10 times the alphabet, in lowercase, followed by a new line.
