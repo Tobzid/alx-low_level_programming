@@ -1,1 +1,1 @@
-Infinite loop avoided in ALX practice work
+ALX practice 2-largest_number.c, main.h
