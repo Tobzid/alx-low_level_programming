@@ -1,1 +1,1 @@
-File: 3-print_remaining_days.c, main.h
+ 0-main.c in ALX pracitce
