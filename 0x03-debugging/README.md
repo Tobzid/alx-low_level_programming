@@ -1,1 +1,1 @@
-Multiply mains practice in ALX
+Infinite loop avoided in ALX practice work
