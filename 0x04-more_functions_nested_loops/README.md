@@ -1,1 +1,1 @@
- a function that prints a triangle, followed by a new line.
+8-print_square.c
