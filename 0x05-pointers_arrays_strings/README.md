@@ -1,1 +1,1 @@
-3-puts.c
+void rev_string(char *s);
