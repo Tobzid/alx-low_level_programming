@@ -5,6 +5,7 @@
  * updates the value it points to to 98
  *
  * @n: This is the Entry
+ * Return: nothing
  */
 
 void reset_to_98(int *n);
