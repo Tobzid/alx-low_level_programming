@@ -1,1 +1,1 @@
-function that gets the length of a prefix substring.
+3-strspn.c
