@@ -1,1 +1,1 @@
- function that locates a substring.
+function that locates a character in a string.
