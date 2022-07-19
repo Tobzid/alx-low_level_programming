@@ -17,7 +17,3 @@ char *_memcpy(char *dest, char *src, unsigned int n)
 	}
 	return (dest);
 }
-<<<<<<< HEAD
-=======
-
->>>>>>> 772243c0c698568f0454bfe174770a2e9e0a95e9

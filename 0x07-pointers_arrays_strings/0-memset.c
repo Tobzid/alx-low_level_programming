@@ -1,5 +1,10 @@
 #include "main.h"
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 772243c0c698568f0454bfe174770a2e9e0a95e9
 /**
  * _memset - fills memory with a constant byte.
  * @s: pointer to memory.
