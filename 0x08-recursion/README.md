@@ -1,1 +1,1 @@
-function that returns the natural square root of a number.
+6-is_prime_number.c
