@@ -1,1 +1,5 @@
-function that creates an array of integers.
+function that reallocates a memory block using malloc and free
+
+
+
+
