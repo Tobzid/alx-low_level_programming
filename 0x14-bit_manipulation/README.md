@@ -1,1 +1,1 @@
-rint binary
+Get bit
